@@ -1,0 +1,9 @@
+{
+  "id": "brain-notes",
+  "name": "Brain Notes",
+  "version": "0.1.0",
+  "minAppVersion": "1.11.4",
+  "description": "Ações, Projetos, Lembretes e sincronização com o GitHub do Brain Notes.",
+  "author": "Bruno Dias Donnici",
+  "isDesktopOnly": false
+}
